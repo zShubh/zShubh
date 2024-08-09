@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Shubhkamna Pandey - Interactive Dashboard Developer 👩‍💻
+# Shubhkamna Pandey - Data Engineer 👩‍💻
 
 <p align="center">
   <img src="img.png" width="35%">
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Shubhkamna+Pandey+%F0%9F%91%8B%F0%9F%8F%BB;I+am+an+Interactive+Dashboard+Developer+%F0%9F%93%88;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Data-Driven+Insights+%F0%9F%93%8A" alt="Shubhkamna Pandey" width="650" height="55">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Shubhkamna+Pandey+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Data+Engineer+%F0%9F%93%88;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Data-Driven+Insights+%F0%9F%93%8A" alt="Shubhkamna Pandey" width="650" height="55">
 </div>
 
 <p align="center">
