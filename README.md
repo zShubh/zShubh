@@ -114,7 +114,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/452/github.png" height=60 width=60 />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/452/microsoft-excel.png" height=60 width=60 />
+    <img src="https://img.icons8.com/ios/452/microsoft-excel.png" height=60 width=60 alt="Microsoft Excel" />
   </a>
 </p>
 
