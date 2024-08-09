@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 ### 🔹Project Management & Leadership:
 
 <p align="center">
-  <a href="https://www.nccindia.nic.in/" target="_blank">
+  <a href="[https://www.nccindia.nic.in/](https://en.wikipedia.org/wiki/National_Cadet_Corps_%28India%29#/media/File:Emblem_of_National_Cadet_Corps_(India).png)" target="_blank">
     <img src="https://img.icons8.com/color/452/ncc.png" height=60 width=60 />
   </a>
 </p>
