@@ -100,7 +100,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/452/mysql-logo.png" height=60 width=60 />
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://img.icons8.com/color/452/sqlite.png" height=60 width=60 />
+    <img src="https://img.icons8.com/color/452/sqlite.png" height=60 width=60 alt="SQLite" />
   </a>
 </p>
 
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 ### 🔹Project Management & Leadership:
 
 <p align="center">
-  <a href="https://www.nccindia.nic.in/" target="_blank">k">
+  <a href="https://www.nccindia.nic.in/" target="_blank">
     <img src="https://github.com/zShubh/zShubh/blob/main/ncc.png" height=60 width=60 />
   </a>
 </p>
