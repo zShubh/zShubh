@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Shubhkamna Pandey - Interactive Dashboard Developer 👩‍💻
+# Shubhkamna Pandey - Data Engineer 👩‍💻
 
 <p align="center">
   <img src="img.png" width="35%">
