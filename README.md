@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Shubhkamna Pandey - Data Engineer 👩‍💻
+# Shubhkamna Pandey - Interactive Dashboard Developer 👩‍💻
 
 <p align="center">
   <img src="img.png" width="35%">
@@ -31,12 +30,32 @@ Here are some ideas to get you started:
 
 # 🛠 Skills & Expertise 🛠
 
-### 🔹Data Analysis & Visualization:
+### 🔹Programming Languages:
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/452/python.png" height=60 width=60 />
   </a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank">
+    <img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" height=60 width=60 />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.icons8.com/color/452/c-programming.png" height=60 width=60 />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/452/javascript.png" height=60 width=60 />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.icons8.com/color/452/html-5.png" height=60 width=60 />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img src="https://img.icons8.com/color/452/css3.png" height=60 width=60 />
+  </a>
+</p>
+
+### 🔹Data Analysis & Visualization:
+
+<p align="center">
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://img.icons8.com/color/452/tableau-software.png" height=60 width=60 />
   </a>
@@ -52,6 +71,9 @@ Here are some ideas to get you started:
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.icons8.com/color/452/matplotlib.png" height=60 width=60 />
   </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height=60 width=60 />
+  </a>
 </p>
 
 ### 🔹Full-Stack Development:
@@ -66,14 +88,33 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/452/html-5.png" height=60 width=60 />
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.icons8.com/color/452/bootstrap.png" height=60 width=60 />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/452/css3.png" height=60 width=60 />
+</p>
+
+### 🔹Databases:
+
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/452/mysql-logo.png" height=60 width=60 />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/452/javascript.png" height=60 width=60 />
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://img.icons8.com/color/452/sqlite.png" height=60 width=60 />
+  </a>
+</p>
+
+### 🔹Tools & Platforms:
+
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/452/git.png" height=60 width=60 />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/color/452/github.png" height=60 width=60 />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/452/microsoft-excel.png" height=60 width=60 />
   </a>
 </p>
 
@@ -82,9 +123,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.nccindia.nic.in/" target="_blank">
     <img src="https://img.icons8.com/color/452/ncc.png" height=60 width=60 />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/452/microsoft-excel.png" height=60 width=60 />
   </a>
 </p>
 
@@ -113,6 +151,11 @@ Here are some ideas to get you started:
 - **Description:** Visualization and analysis of heart disease datasets to identify key insights and correlations.
 - **Tech Stack:** Python, pandas, matplotlib, seaborn.
 - **Outcome:** Discovered critical patterns and insights into heart disease prevalence.
+
+### 🔹[Sorting Algorithm Visualizer](https://github.com/zShubh/SortingAlgo-Visualizer)
+- **Description:** A responsive web app showcasing six sorting algorithms with real-time visualization.
+- **Tech Stack:** HTML, CSS, JavaScript.
+- **Outcome:** Enhanced understanding of sorting algorithms through interactive visualizations.
 
 # 📈 GitHub Stats 📈
 
